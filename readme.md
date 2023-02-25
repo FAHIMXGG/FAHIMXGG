@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahasanul Haque</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimxgg&label=Profile%20views&color=7ef7e3&style=flat" alt="fahimxgg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimxgg&label=Profile%20views&color=d90dad&style=flat" alt="fahimxgg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fahim2259" target="blank"><img src="https://img.shields.io/twitter/follow/fahim2259?logo=twitter&style=for-the-badge" alt="fahim2259" /></a> </p>
 
