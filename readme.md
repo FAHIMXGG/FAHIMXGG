@@ -152,7 +152,7 @@
 
 ### 👀 Profile Views
 
-![Profile Views](https://visitcount.itsvg.in/api?id=FAHIMXGG&icon=0&color=0)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimxgg&label=Profile%20views&color=d90dad&style=flat" alt="fahimxgg" /> </p>
 
 ---
 
