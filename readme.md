@@ -150,13 +150,9 @@
 
 <div align="center">
 
-### 👀 Profile Views
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimxgg&label=Profile%20views&color=d90dad&style=flat" alt="fahimxgg" /> </p>
 
 ---
-
-**⭐️ From [FAHIMXGG](https://github.com/FAHIMXGG)**
 
 </div>
 
